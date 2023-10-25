@@ -150,7 +150,18 @@ graph TD
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+- **Figma**: Saya menggunakan Figma untuk merancang tampilan dan antarmuka pengguna kami. Ini memudahkan saya untuk berkolaborasi dalam proses desain.
+
+- **Visual Studio Code (VS Code)**: saya menulis kode aplikasi menggunakan VS Code. Alat ini sangat membantu dalam menulis dan mengelola kode.
+
+- **React Native**: Aplikasi ini dibangun menggunakan kerangka kerja React Native. Ini memungkinkan kami untuk membuat aplikasi yang dapat dijalankan pada Android dan iPhone dengan menggunakan JavaScript.
+
+- **Axios**: Saya menggunakan Axios untuk mengirim permintaan ke server saya. Ini membantu saya berkomunikasi dengan server dan mendapatkan atau mengirim data.
+
+- **Android Studio**: Saya mengembangkan aplikasi Android saya dengan bantuan Android Studio. Ini memungkinkan saya untuk menguji dan mengembangkan aplikasi di platform Android.
+
+- **Firebase**: saya memanfaatkan Firebase sebagai basis data kami dan untuk layanan backend. Firebase membantu saya dalam mengelola data pengguna, otorisasi, dan notifikasi.
+
 
 ## 6. Desain User Experience dan User Interface
 ![image](https://github.com/yazidzky/userstory/assets/144634381/cd7f5d1d-a991-4a54-959b-83b7cb8e36fe)
