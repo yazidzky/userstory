@@ -46,6 +46,7 @@ User experience theme:
 Mudah: Penggunaan yang intuitif untuk semua tingkat pengguna, tanpa hambatan teknis.
 Sederhana: Desain minimalis dan fokus pada fitur-fitur utama.
 Menyenangkan: Memberikan pengalaman positif dalam berinteraksi dengan fitur-fitur agama.
+
 Warna:Coklat dan abu-abu akan memberikan nuansa yang lebih tenang dan kalem, cocok dengan tema keagamaan.
 Coklat dapat mencerminkan kedalaman dan kebijaksanaan, sementara abu-abu memberikan kesan ketenangan dan keseimbangan.
 
